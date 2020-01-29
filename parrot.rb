@@ -1,2 +1,4 @@
-# Create method `parrot` that outputs a given phrase and
-# returns the phrase
+def Squawk= #("poly want a cracker")
+  puts <("Squawk")>
+  prints ("poly want cracker")
+end
